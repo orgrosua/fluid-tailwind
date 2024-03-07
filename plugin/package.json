@@ -1,5 +1,5 @@
 {
-	"name": "fluid-tailwind",
+	"name": "@siul/fluid-tailwind",
 	"version": "0.1.6",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
